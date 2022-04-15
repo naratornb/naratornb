@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @naratornb
-- 👀 I’m interested in web apps stack
-- 🌱 I’m currently learning to code webapps based on react js 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m currently software developer (spring-boot microservice)
+- 👀 I’m interested in data analytic foudation
+- 🌱 I’m currently learning to code python and data extraction/ analysis 
+- 
 - 📫 How to reach me ...
 
 <!---
