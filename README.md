@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naratornb
-- 💞️ I’m currently software developer (spring-boot microservice)
+- 💞️ I’m currently backend software engineer (Spring-boot Java/ Golang microservice)
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning to code with MERN stacks (Mongo-Express-React-Node)
 - 📫 How to reach me
