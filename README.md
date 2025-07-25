@@ -3,8 +3,8 @@
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning to code with MERN stacks (Mongo-Express-React-Node)
 - 📫 How to reach me
-    - email : naratornbenj@gmail.com
-    - linkedin : www.linkedin.com/in/flooknrt
+    - email : f.luke.benj@gmail.com
+    - linkedin : www.linkedin.com/in/luke.benj
 
 <!---
 naratornb/naratornb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
