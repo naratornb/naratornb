@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @naratornb
+- 👋 Hi, I’m Luke
 - 💞️ I’m currently backend software engineer (Spring-boot Java/ Golang microservice)
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning to code with MERN stacks (Mongo-Express-React-Node)
+- 👀 I’m interested in integrating AI into software
+- 🌱 I’m currently learning master of Artificial Intelligence at QUT (Australia)
 - 📫 How to reach me
     - email : f.luke.benj@gmail.com
     - linkedin : www.linkedin.com/in/luke.benj
