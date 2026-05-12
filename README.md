@@ -1,10 +1,17 @@
-- 👋 Hi, I’m Luke
-- 💞️ I’m currently backend software engineer (Spring-boot Java/ Golang microservice)
-- 👀 I’m interested in integrating AI into software
-- 🌱 I’m currently learning master of Artificial Intelligence at QUT (Australia)
-- 📫 How to reach me
-    - email : f.luke.benj@gmail.com
-    - linkedin : www.linkedin.com/in/luke.benj
+# Naratorn (Luke) Benjapattranon
+
+Backend Engineer → Applied AI Engineer
+
+Building production-grade AI systems with scalable backend infrastructure.
+
+Java • Golang • Python • AWS • Kubernetes • Terraform • Kafka • LLMs • RAG
+
+🏦 Previously at
+LINE Banking • Accenture • Refinitiv (LSEG)
+🎓 Master of Artificial Intelligence @ QUT, Australia
+
+contact: [f.luke.benj@gmail.com](mailto:f.luke.benj@gmail.com) | [www.linkedin.com/in/luke.benj](http://www.linkedin.com/in/luke.benj)
+
 
 <!---
 naratornb/naratornb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
